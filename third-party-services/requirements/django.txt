@@ -1,0 +1,4 @@
+Django==1.11.3
+django-environ==0.4.3
+djangorestframework==3.6.3
+drf-extensions==0.3.1

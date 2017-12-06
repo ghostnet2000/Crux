@@ -1,0 +1,4 @@
+-r common.txt
+-r deploy.txt
+-r django.txt
+-r server.txt

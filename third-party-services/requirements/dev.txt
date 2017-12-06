@@ -1,0 +1,6 @@
+-r common.txt
+-r debug.txt
+-r deploy.txt
+-r django.txt
+-r docs.txt
+-r test.txt
